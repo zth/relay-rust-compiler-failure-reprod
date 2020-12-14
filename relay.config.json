@@ -3,7 +3,7 @@
   "sources": { "src": "main" },
   "projects": {
     "main": {
-      "schema": "./schema/schema.graphql"
+      "schema": "schema/schema.graphql"
     }
   }
 }
