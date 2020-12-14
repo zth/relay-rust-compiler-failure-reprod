@@ -1,0 +1,9 @@
+{
+  "root": "./",
+  "sources": { "src": "main" },
+  "projects": {
+    "main": {
+      "schema": "./schema/schema.graphql"
+    }
+  }
+}
